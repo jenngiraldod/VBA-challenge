@@ -14,14 +14,17 @@ The stock with the Greatest Total Volume.
 The solution matches the layout and functionality as shown in the provided images.
 
 Q1
-<img width="1280" alt="Q1" src="https://github.com/user-attachments/assets/786998a5-3712-4d68-a3fb-db8e35cbdbc6">
+![Screenshot 2024-10-30 at 8 35 18 PM](https://github.com/user-attachments/assets/2dc86cb6-95d7-4bcf-a133-8bf937eb6b48)
 
 Q2
-<img width="1280" alt="Q2" src="https://github.com/user-attachments/assets/55b4e7c0-130f-45ae-bc17-250cdcedc6c1">
+![Screenshot 2024-10-30 at 8 35 36 PM](https://github.com/user-attachments/assets/53065025-961d-4b0e-a19a-c7678a148247)
+
 
 Q3
-<img width="1280" alt="Q3" src="https://github.com/user-attachments/assets/8fdac3ab-1679-4b9c-b89f-ec9540b1c218">
+![Screenshot 2024-10-30 at 8 35 54 PM](https://github.com/user-attachments/assets/bf97987d-51ab-4eb6-a11f-486bdb3fcd9c)
+
 
 Q4
-<img width="1280" alt="Q4" src="https://github.com/user-attachments/assets/3b410a74-3976-4f17-8518-f19281db7c0b">
+![Screenshot 2024-10-30 at 8 36 06 PM](https://github.com/user-attachments/assets/c3b27050-f13e-4312-ae9a-a555cf76eefb)
+
 
